@@ -1,0 +1,24 @@
+.about {
+  background-color: var(--section-bg);
+  color: var(--text-color);
+  text-align: center;
+  padding: 60px 20px;
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+.about h2 {
+  font-size: 2.2rem;
+  margin-bottom: 30px;
+  font-weight: 700;
+  color: var(--accent-color);
+}
+
+.about p {
+  max-width: 900px;
+  margin: 16px auto;
+  line-height: 1.8;
+  padding: 0 24px;
+  font-size: 1rem;
+  font-weight: 400;
+  color: var(--text-color);
+}
