@@ -37,6 +37,9 @@ function Projects() {
           <p>
             Genova is an <strong>agentic multi-modal autonomous helpdesk system</strong> that automates the <strong>student admission</strong> and <strong>financial aid pipeline</strong> using AI agents and hybrid <strong>RAG pipelines</strong> for scalable decision-making.
           </p>
+          <p>
+            Built as a <strong>group project</strong>, Genova reflects the power of effective teamwork, where seamless collaboration led to the successful integration of multiple AI modules. It emphasized task ownership, shared problem-solving, and communication.
+          </p>
           <a
             href="https://github.com/33Sg/Agent-Based-Student-Automation-Helpdesk"
             target="_blank"
@@ -55,6 +58,7 @@ function Projects() {
             <span>RAG</span>
           </div>
         </div>
+
 
         {/* FlexiSpot */}
         <div className="project-card">
